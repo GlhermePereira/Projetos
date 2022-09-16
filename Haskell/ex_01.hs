@@ -1,3 +1,5 @@
+1º
+
 naturais = [ 0 ..100]
 
 a = [ 3 * n | n <- naturais, n > 4, n < 30]
