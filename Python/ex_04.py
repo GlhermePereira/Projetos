@@ -1,0 +1,8 @@
+tipo= (input("Digite algo "))
+print('Tipo ', type(tipo))    
+print('tem espaços ', tipo.isspace())
+print('e alphanumerico ',tipo.isalnum())
+print('e um numero ', tipo.isnumeric())
+print('e alfabetico ', tipo.isalpha())
+print('esta em maiusculo', tipo.isupper())
+print('esta em minuscylo', tipo.islower())
