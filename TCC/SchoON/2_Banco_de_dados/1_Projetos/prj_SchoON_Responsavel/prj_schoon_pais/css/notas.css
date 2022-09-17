@@ -1,0 +1,43 @@
+.esconder{visibility: hidden;}
+
+.graficos{background-color: #fff; height: 300px; width: 100%;}
+.graficos h1{text-align: center; font-size: 30px;}
+
+.explicacao{background-color: #fff; height: auto; width: 100%;}
+.explicacao h1{text-align: center; font-size: 30px;}
+.explicacao p{text-align: center; font-size: 15px;}
+
+.faltas{background-color: #fff; height: 300px; width: 100%;}
+.faltas h1{text-align: center; font-size: 30px;}
+
+.conteudo{height: auto;}
+
+table{background-color: #fff;}
+@media only screen and (max-width:600px)
+{
+    main { width: auto; margin: auto; }
+    .material-icons{font-size: 60px;margin-left: 50px;}
+    header{height:100px}
+    
+    
+    .conteudo{
+        padding: 10px;
+        width: 360px;
+        height: auto;
+        background-color: #576599;
+        border-radius: 5px;
+    }
+    .conteudo2{
+        padding: 10px;
+        width: 360px;
+        height: 100%;
+        background-color: #576599;
+        border-radius: 5px;
+    }
+
+    .esconder {visibility: visible;}
+    .esconder2{visibility: hidden;}
+    .areaconteudo{ width:auto; float: none;}
+
+
+}

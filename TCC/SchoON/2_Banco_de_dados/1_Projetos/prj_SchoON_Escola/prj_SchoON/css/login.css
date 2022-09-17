@@ -1,0 +1,45 @@
+body {
+    max-width: 100%;
+    background-color: #dcdde1;
+}
+
+.areaLogin { 
+    background-color: #fff;
+    width: 450px;
+    height: 300px;
+    margin: auto;
+    margin-top: 20%;   
+    box-shadow: 1px 1px 1px gray; 
+}
+
+.interiorAreaLogin { width: 85%; margin: auto; }
+
+.logo { width: 125px; margin: 20px; margin-left: 30px;}
+
+.caixaLogin {
+    position: relative; 
+    width: 350px;
+    padding: 15px;
+    margin-top: 10px;
+    border: 0px;
+    border-bottom: 1px solid gray;
+}
+
+.validation{
+    margin-top: 30px;
+}
+
+.botaoLogin { 
+    text-decoration: none; 
+    background-color: var(--mainLaranja); 
+    border: none; 
+    padding: 10px; 
+    border-radius: 5px; 
+    width: 80px; 
+    color: white; 
+    margin-top: 25px;
+    text-align: center;
+}
+
+
+

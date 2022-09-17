@@ -1,0 +1,38 @@
+.interiorConteudo{
+    width: 1100px;
+    height: 100%;
+    margin: auto;
+}
+
+.areaTitulo{
+    width: 400px;
+    height: 40px;
+    margin: 15px auto;
+    text-align: center;
+}
+
+.spanTitulo{
+    font-weight: bold;
+    color: #fff;
+    font-size: 25px;
+}
+
+.areaTabela{
+    background-color: #fff;
+    margin: 60px auto;
+    width: 1100px;
+    height: 550px;
+    overflow: auto;
+}
+
+.areaBotoes{
+    top: 50px;
+}
+
+.btnAdicionar{
+    margin-left: 20px;
+}
+
+.areaBotaoImportar{
+    margin-top: -30px;
+}

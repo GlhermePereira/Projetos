@@ -1,0 +1,732 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ALUNOS>
+  <aluno>
+    <cd_sg_turma>1</cd_sg_turma>
+  <aa_turma>2020</aa_turma>
+  <nm_aluno>Paulo Guedes</nm_aluno>
+  <cd_aluno>4</cd_aluno>
+  <nm_email_responsavel>paulo.guedes@gmail.com</nm_email_responsavel>
+
+  </aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Ana Bohn </nm_aluno>
+<cd_aluno>5 </cd_aluno>
+<nm_email_responsavel>anderson@gmail.com </nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Ana Medeiros</nm_aluno>
+<cd_aluno> 6</cd_aluno>
+<nm_email_responsavel>wanderson@gmail.com </nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Ana Nunes</nm_aluno>
+<cd_aluno>7 </cd_aluno>
+<nm_email_responsavel>wesley@gmail.com </nm_email_responsavel>
+</aluno>
+ 
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Ana Souza</nm_aluno>
+<cd_aluno> 8</cd_aluno>
+<nm_email_responsavel>frederico@gmail.com </nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Bruna Angelle </nm_aluno>
+<cd_aluno> 9</cd_aluno>
+<nm_email_responsavel>victor@gmail.com </nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Bruno Eduardo</nm_aluno>
+<cd_aluno>10 </cd_aluno>
+<nm_email_responsavel>george@gmail.com </nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Camila Silvestre</nm_aluno>
+<cd_aluno>11 </cd_aluno>
+<nm_email_responsavel>henderson@gmail.com </nm_email_responsavel>
+</aluno>
+ 
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Daniel Almeida</nm_aluno>
+<cd_aluno> 12</cd_aluno>
+<nm_email_responsavel>igor@gmail.com </nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Erick Andrade</nm_aluno>
+<cd_aluno>13 </cd_aluno>
+<nm_email_responsavel>natalia@gmail.com </nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Julio Barbosa</nm_aluno>
+<cd_aluno>14 </cd_aluno>
+<nm_email_responsavel>julio@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Francisco Joviane</nm_aluno>
+<cd_aluno>15 </cd_aluno>
+<nm_email_responsavel>julios@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Guilherme Hisatomi</nm_aluno>
+<cd_aluno>16 </cd_aluno>
+<nm_email_responsavel>marto@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Jhonathan Araki</nm_aluno>
+<cd_aluno>17 </cd_aluno>
+<nm_email_responsavel>rosangela@gmail.com </nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>  Lucas Vaz</nm_aluno>
+<cd_aluno>18 </cd_aluno>
+<nm_email_responsavel>maria@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Marcia Duarte</nm_aluno>
+<cd_aluno>19 </cd_aluno>
+<nm_email_responsavel>angela@gmail.com </nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Maria Mendes</nm_aluno>
+<cd_aluno>20  </cd_aluno>
+<nm_email_responsavel>rosa@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>  Nicolas Gonçales</nm_aluno>
+<cd_aluno>21 </cd_aluno>
+<nm_email_responsavel>marta@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Nicolas Machado</nm_aluno>
+<cd_aluno>22 </cd_aluno>
+<nm_email_responsavel>renato@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Patricia Silvestre</nm_aluno>
+<cd_aluno>23 </cd_aluno>
+<nm_email_responsavel>dyrlene@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Patrick Leblanc</nm_aluno>
+<cd_aluno>24 </cd_aluno>
+<nm_email_responsavel>renata@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Paulo Henrique</nm_aluno>
+<cd_aluno>25 </cd_aluno>
+<nm_email_responsavel>thiago@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Paulo Santana</nm_aluno>
+<cd_aluno>26 </cd_aluno>
+<nm_email_responsavel>henrique@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Rafael Lopes</nm_aluno>
+<cd_aluno>27 </cd_aluno>
+<nm_email_responsavel>karen@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Rafael Soares</nm_aluno>
+<cd_aluno>28 </cd_aluno>
+<nm_email_responsavel>katia@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Rafael Souza</nm_aluno>
+<cd_aluno>29 </cd_aluno>
+<nm_email_responsavel>gustavo@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Rafaela Fernanda</nm_aluno>
+<cd_aluno>30 </cd_aluno>
+<nm_email_responsavel>leonardo@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Raimundo Santos</nm_aluno>
+<cd_aluno>31 </cd_aluno>
+<nm_email_responsavel>andrei@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Rodrigo Oliveira</nm_aluno>
+<cd_aluno>32 </cd_aluno>
+<nm_email_responsavel>andre@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Rodrigo Ramos</nm_aluno>
+<cd_aluno>33 </cd_aluno>
+<nm_email_responsavel>caio@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>1</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Vitor Fernandes</nm_aluno>
+<cd_aluno>34 </cd_aluno>
+<nm_email_responsavel>hugo@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Ana Carvalho</nm_aluno>
+<cd_aluno>35 </cd_aluno>
+<nm_email_responsavel>junior@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Ana Lombardi </nm_aluno>
+<cd_aluno>36 </cd_aluno>
+<nm_email_responsavel>fabricio@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Ana Oliveira</nm_aluno>
+<cd_aluno> 37</cd_aluno>
+<nm_email_responsavel>felipe@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Ana Vaz </nm_aluno>
+<cd_aluno> 38</cd_aluno>
+<nm_email_responsavel>franklin@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Barbara Costa </nm_aluno>
+<cd_aluno> 39</cd_aluno>
+<nm_email_responsavel>melissa@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Barbara Gomes </nm_aluno>
+<cd_aluno> 40</cd_aluno>
+<nm_email_responsavel>marisa@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Barbara Souza</nm_aluno>
+<cd_aluno>41 </cd_aluno>
+<nm_email_responsavel>marina@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Beatriz Lima </nm_aluno>
+<cd_aluno> 42</cd_aluno>
+<nm_email_responsavel>marcia@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Beatriz Tanaka </nm_aluno>
+<cd_aluno>43 </cd_aluno>
+<nm_email_responsavel>cecilia@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Camila Gonçales </nm_aluno>
+<cd_aluno>44 </cd_aluno>
+<nm_email_responsavel>felix@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Daniel Batista</nm_aluno>
+<cd_aluno> 45</cd_aluno>
+<nm_email_responsavel>rafael@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Emilia Dias </nm_aluno>
+<cd_aluno> 46</cd_aluno>
+<nm_email_responsavel>ronaldo@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Emilia Duarte</nm_aluno>
+<cd_aluno>47</cd_aluno>
+<nm_email_responsavel>karine@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Erick Teixeira </nm_aluno>
+<cd_aluno>48 </cd_aluno>
+<nm_email_responsavel>douglas@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Erick Viera </nm_aluno>
+<cd_aluno> 49</cd_aluno>
+<nm_email_responsavel>lucineia@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Fernanda Lima</nm_aluno>
+<cd_aluno> 50</cd_aluno>
+<nm_email_responsavel>natan@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Gabriel Machado </nm_aluno>
+<cd_aluno> 51</cd_aluno>
+<nm_email_responsavel>sayuri@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Giovanna Campos </nm_aluno>
+<cd_aluno> 52</cd_aluno>
+<nm_email_responsavel>emilly@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Guilherme Lima </nm_aluno>
+<cd_aluno> 53</cd_aluno>
+<nm_email_responsavel>solange@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Guilherme Mello </nm_aluno>
+<cd_aluno> 54</cd_aluno>
+<nm_email_responsavel>hillary@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Guilherme Moreira</nm_aluno>
+<cd_aluno>55 </cd_aluno>
+<nm_email_responsavel>sabrina@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Guilherme Pereira </nm_aluno>
+<cd_aluno> 56</cd_aluno>
+<nm_email_responsavel>heloisa@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Jorge Machado</nm_aluno>
+<cd_aluno> 57</cd_aluno>
+<nm_email_responsavel>otavio@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Julia Lombardi </nm_aluno>
+<cd_aluno> 58</cd_aluno>
+<nm_email_responsavel>erica@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Leticia Cardoso </nm_aluno>
+<cd_aluno>59 </cd_aluno>
+<nm_email_responsavel>arthur@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Leticia Lombardi</nm_aluno>
+<cd_aluno> 60</cd_aluno>
+<nm_email_responsavel>severino@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Leticia Mello  </nm_aluno>
+<cd_aluno> 61</cd_aluno>
+<nm_email_responsavel>luis@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Lucaz Souza </nm_aluno>
+<cd_aluno>62 </cd_aluno>
+<nm_email_responsavel>garcia@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Luiza Santana</nm_aluno>
+<cd_aluno> 63</cd_aluno>
+<nm_email_responsavel>monica@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Marcia Dias</nm_aluno>
+<cd_aluno> 64</cd_aluno>
+<nm_email_responsavel>wellington@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>2</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Vitor Lopes </nm_aluno>
+<cd_aluno> 65</cd_aluno>
+<nm_email_responsavel>carlos@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Alexandre Lombardi</nm_aluno>
+<cd_aluno> 66</cd_aluno>
+<nm_email_responsavel>cristiane@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Aline barros </nm_aluno>
+<cd_aluno>67 </cd_aluno>
+<nm_email_responsavel>aldo@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Aline Freitas</nm_aluno>
+<cd_aluno> 68</cd_aluno>
+<nm_email_responsavel>matheus@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Alice Araki </nm_aluno>
+<cd_aluno>69 </cd_aluno>
+<nm_email_responsavel>marcio@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Amanda Mello</nm_aluno>
+<cd_aluno>70 </cd_aluno>
+<nm_email_responsavel>luana@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Angela Machado</nm_aluno>
+<cd_aluno> 71</cd_aluno>
+<nm_email_responsavel>marlon@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Bruno Campos</nm_aluno>
+<cd_aluno> 72</cd_aluno>
+<nm_email_responsavel>vitoria@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Bruno Jordão</nm_aluno>
+<cd_aluno>73 </cd_aluno>
+<nm_email_responsavel>jose@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Gabriel Gomes </nm_aluno>
+<cd_aluno>74 </cd_aluno>
+<nm_email_responsavel>beatriz@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Gabriel Martins</nm_aluno>
+<cd_aluno>75</cd_aluno>
+<nm_email_responsavel>joseph@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Gabriel Ribeiro</nm_aluno>
+<cd_aluno> 76</cd_aluno>
+<nm_email_responsavel>edson@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Gabriel Souza </nm_aluno>
+<cd_aluno> 77</cd_aluno>
+<nm_email_responsavel>ordilio@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Gabriel Tanaka </nm_aluno>
+<cd_aluno>78 </cd_aluno>
+<nm_email_responsavel>livia@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Gerson Nunes</nm_aluno>
+<cd_aluno> 79</cd_aluno>
+<nm_email_responsavel>millena@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Giovanna Cardoso </nm_aluno>
+<cd_aluno> 80</cd_aluno>
+<nm_email_responsavel>jane@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Jose Carlos</nm_aluno>
+<cd_aluno> 81</cd_aluno>
+<nm_email_responsavel>rosana@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Jose Dostoivski </nm_aluno>
+<cd_aluno>82 </cd_aluno>
+<nm_email_responsavel>izabelli@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Judas Nicole </nm_aluno>
+<cd_aluno>83 </cd_aluno>
+<nm_email_responsavel>cirilo@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Julia Pagano </nm_aluno>
+<cd_aluno>84 </cd_aluno>
+<nm_email_responsavel>breno@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Leticia Mayumi</nm_aluno>
+<cd_aluno>85 </cd_aluno>
+<nm_email_responsavel>nelson@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Lucas Carvalho</nm_aluno>
+<cd_aluno>86 </cd_aluno>
+<nm_email_responsavel>viviane@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Lucaz Alves </nm_aluno>
+<cd_aluno>87 </cd_aluno>
+<nm_email_responsavel>victoria@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Lucaz Valente </nm_aluno>
+<cd_aluno>88 </cd_aluno>
+<nm_email_responsavel>camile@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno> Lucaz Viera</nm_aluno>
+<cd_aluno>89 </cd_aluno>
+<nm_email_responsavel>liliane@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Renato Dostoivski </nm_aluno>
+<cd_aluno>90 </cd_aluno>
+<nm_email_responsavel>izabelli@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Sandra Hoffmann </nm_aluno>
+<cd_aluno>91 </cd_aluno>
+<nm_email_responsavel>lilian@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Vanessa Bohn </nm_aluno>
+<cd_aluno>92 </cd_aluno>
+<nm_email_responsavel>adriana@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Victor Nascimento </nm_aluno>
+<cd_aluno>93 </cd_aluno>
+<nm_email_responsavel>jefferson@gmail.com</nm_email_responsavel>
+</aluno>
+
+<aluno>
+<cd_sg_turma>3</cd_sg_turma>
+<aa_turma> 2020</aa_turma>
+<nm_aluno>Victor Soares </nm_aluno>
+<cd_aluno>94 </cd_aluno>
+<nm_email_responsavel>alessandra@gmail.com</nm_email_responsavel>
+</aluno>
+
+</ALUNOS>

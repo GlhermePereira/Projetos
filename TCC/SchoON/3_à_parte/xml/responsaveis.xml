@@ -1,0 +1,632 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RESPONSAVEIS>
+	<responsavel>
+  <nm_usuario> Paulo Guede </nm_usuario>
+   <nm_senha> 123  </nm_senha>
+   <cd_telefone> 13988060124 </cd_telefone>
+  <nm_email>paulo.guedes@gmail.com</nm_email>
+	</responsavel>
+
+<responsavel>
+<nm_usuario>Anderson Bohn</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>1234546789</cd_telefone>
+<nm_email>anderson@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Wanderson Medeiros</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456788</cd_telefone>
+<nm_email>wanderson@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Wesley Nunes</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456787</cd_telefone>
+<nm_email>wesley@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Frederico Souza</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>1234546786</cd_telefone>
+<nm_email>frederico@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Victor Angelle</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456785</cd_telefone>
+<nm_email>victor@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>George Eduardo</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456784</cd_telefone>
+<nm_email>george@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Henderson Silvestre</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>1234567823</cd_telefone>
+<nm_email>henderson@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Igor Almeida</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>1234567822</cd_telefone>
+<nm_email>igor@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Natalia Andrade</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456781</cd_telefone>
+<nm_email>natalia@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Julio Barbosa</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456780</cd_telefone>
+<nm_email>julio@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Julios Joviane</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456779</cd_telefone>
+<nm_email>julios@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Marto Hisatomi</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456778</cd_telefone>
+<nm_email>marto@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Rosangela Araki</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456777</cd_telefone>
+<nm_email>rosangela@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Maria Vaz</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456776</cd_telefone>
+<nm_email>maria@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Angela Duarte</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456775</cd_telefone>
+<nm_email>angela@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Rosa Mendes</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456774</cd_telefone>
+<nm_email>rosa@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Marta Gonçales</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456773</cd_telefone>
+<nm_email>marta@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Renato Machado</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456772</cd_telefone>
+<nm_email>renato@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Dyrlene Silvestre</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>000000000</cd_telefone>
+<nm_email>dyrlene@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Renata Leblanc</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456771</cd_telefone>
+<nm_email>renata@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Thiago Henrique</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456770</cd_telefone>
+<nm_email>thiago@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Henrique Santana</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456769</cd_telefone>
+<nm_email>henrique@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Karen Lopes</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456768</cd_telefone>
+<nm_email>karen@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Katia Soares</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456767</cd_telefone>
+<nm_email>katia@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Gustavo Souza</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456766</cd_telefone>
+<nm_email>gustavo@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Leonardo Ferdandes</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456765</cd_telefone>
+<nm_email>leonardo@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Andrei Santos</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456764</cd_telefone>
+<nm_email>andrei@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Andre Oliveira</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456763</cd_telefone>
+<nm_email>andre@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Caio Ramos</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456762</cd_telefone>
+<nm_email>caio@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Hugo Fernandes</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456761</cd_telefone>
+<nm_email>hugo@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Junior Carvalho</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456760</cd_telefone>
+<nm_email>junior@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Fabricio Lombardi</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456759</cd_telefone>
+<nm_email>fabricio@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Felipe Oliveira</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456758</cd_telefone>
+<nm_email>felipe@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Franklin Vaz</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456757</cd_telefone>
+<nm_email>franklin@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Melissa Costa</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456756</cd_telefone>
+<nm_email>melissa@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Marisa Gomes</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456755</cd_telefone>
+<nm_email>marisa@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Marina Souza</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456754</cd_telefone>
+<nm_email>marina@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Marcia Lima</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456753</cd_telefone>
+<nm_email>marcia@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Cecilia Tanaka</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456752</cd_telefone>
+<nm_email>cecilia@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Felix Gonçales</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456751</cd_telefone>
+<nm_email>felix@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Rafael Batista</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456750</cd_telefone>
+<nm_email>rafael@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Ronaldo Dias</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456749</cd_telefone>
+<nm_email>ronaldo@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Karine Duarte</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456748</cd_telefone>
+<nm_email>karine@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Douglas Texeira</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456747</cd_telefone>
+<nm_email>douglas@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Lucineia Viera</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456746</cd_telefone>
+<nm_email>lucineia@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Natan Lima</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456745</cd_telefone>
+<nm_email>natan@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Sayuri Machado</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456744</cd_telefone>
+<nm_email>sayuri@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Emilly Campos</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456743</cd_telefone>
+<nm_email>emilly@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Solange Lima</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456742</cd_telefone>
+<nm_email>solange@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Hillary Mello</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456741</cd_telefone>
+<nm_email>hillary@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Sabrina Moreira</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456740</cd_telefone>
+<nm_email>sabrina@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Heloisa Pereira</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456739</cd_telefone>
+<nm_email>heloisa@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Otavio Machado</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456738</cd_telefone>
+<nm_email>otavio@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Erica Lombardi</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456737</cd_telefone>
+<nm_email>erica@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Arthur Cardoso</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456736</cd_telefone>
+<nm_email>arthur@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Severino Lombardi</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456735</cd_telefone>
+<nm_email>severino@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Luis Mello</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456734</cd_telefone>
+<nm_email>luis@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Garcia Souza</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456733</cd_telefone>
+<nm_email>garcia@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Monica Santana</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456732</cd_telefone>
+<nm_email>monica@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Wellington Dias</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456731</cd_telefone>
+<nm_email>wellington@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Carlos Lopes</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456730</cd_telefone>
+<nm_email>carlos@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Cristiane Lombardi</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456729</cd_telefone>
+<nm_email>cristiane@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Aldo Barros</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456728</cd_telefone>
+<nm_email>aldo@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Matheus Freitas</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456727</cd_telefone>
+<nm_email>matheus@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Marcio Araki</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456726</cd_telefone>
+<nm_email>marcio@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Luana Mello</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456725</cd_telefone>
+<nm_email>luana@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Marlon Machado</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456724</cd_telefone>
+<nm_email>marlon@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Vitoria Campos</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456723</cd_telefone>
+<nm_email>vitoria@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Jose Jordão</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456722</cd_telefone>
+<nm_email>jose@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Beatriz Gomes</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456721</cd_telefone>
+<nm_email>beatriz@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Joseph Martins</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456720</cd_telefone>
+<nm_email>joseph@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Edson Ribeiro</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456719</cd_telefone>
+<nm_email>edson@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Ordilio Souza</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456718</cd_telefone>
+<nm_email>ordilio@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Livia Tanaka</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456717</cd_telefone>
+<nm_email>livia@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Millena Nunes</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456716</cd_telefone>
+<nm_email>millena@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Jane Cardoso</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456715</cd_telefone>
+<nm_email>jane@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Rosana Carlos</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456714</cd_telefone>
+<nm_email>rosana@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Izabelli Doistoivski</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456713</cd_telefone>
+<nm_email>izabelli@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Cirilo Nicole</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456712</cd_telefone>
+<nm_email>cirilo@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Breno Pagano</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456711</cd_telefone>
+<nm_email>breno@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Nelson Mayumi</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456710</cd_telefone>
+<nm_email>nelson@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Viviane Carvalho</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456700</cd_telefone>
+<nm_email>viviane@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Victoria Alves</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456699</cd_telefone>
+<nm_email>victoria@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Camile Valente</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456698</cd_telefone>
+<nm_email>camile@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Liliane Viera</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456697</cd_telefone>
+<nm_email>liliane@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Lilian Hoffmann</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456696</cd_telefone>
+<nm_email>lilian@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Adriana Bohn</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456695</cd_telefone>
+<nm_email>adriana@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario>Jefferson Nascimento</nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456694</cd_telefone>
+<nm_email>jefferson@gmail.com</nm_email>
+</responsavel>
+
+<responsavel>
+<nm_usuario> Alessandra Soares </nm_usuario>
+<nm_senha>123</nm_senha>
+<cd_telefone>123456693</cd_telefone>
+<nm_email>alessandra@gmail.com</nm_email>
+</responsavel>
+</RESPONSAVEIS>

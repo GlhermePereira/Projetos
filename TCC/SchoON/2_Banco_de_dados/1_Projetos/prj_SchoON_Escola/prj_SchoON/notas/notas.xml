@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NOTAS>
+  <NOTA_ALUNO>
+    <CODIGO_ALUNO>2</CODIGO_ALUNO>
+      <DATA_NOTA>2020-03-3 </DATA_NOTA>
+        <CODIGO_NOTA>3</CODIGO_NOTA>
+          <CODIGO_MATERIA>4</CODIGO_MATERIA>
+            <DS_NOTA>Como vc n foi muito bem na prova sua note é 5 melhore</DS_NOTA>
+              <NOTA_ATRIBUIDA>6</NOTA_ATRIBUIDA>
+  </NOTA_ALUNO>
+
+  <NOTA_ALUNO>
+    <CODIGO_ALUNO>3</CODIGO_ALUNO>
+    <DATA_NOTA>2020-03-3</DATA_NOTA>
+    <CODIGO_NOTA>3</CODIGO_NOTA>
+    <CODIGO_MATERIA>5</CODIGO_MATERIA>
+    <DS_NOTA>Como vc n foi muito bem na prova sua note é 5 melhore</DS_NOTA>
+    <NOTA_ATRIBUIDA>5</NOTA_ATRIBUIDA>
+  </NOTA_ALUNO>
+  
+</NOTAS>

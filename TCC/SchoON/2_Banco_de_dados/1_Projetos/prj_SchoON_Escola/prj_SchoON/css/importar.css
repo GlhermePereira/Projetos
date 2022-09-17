@@ -1,0 +1,47 @@
+.areaTitulo{ 
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.titulo{ color: white; }
+
+.areaImportar{
+    width: 85%;
+    height: 720px;
+    margin: auto;
+    background-color: var(--azulSecundario);
+}
+
+.areaBotoes{
+    width: 100%;
+    height: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.areaGrid{
+    width: 100%;
+    height: 600px;
+    background-color: #fff;
+    overflow: auto;
+}
+
+.areaBotaoImportar{
+    width: 100%;
+    height: 60px;
+    background-color: var(--azulSecundario);
+}
+
+.areaPaddingBotaoImportar{
+    padding-top: 20px;
+}
+
+.BotaoImportar{
+    background-color: var(--mainLaranja);
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #fff;
+    border-radius: 10px;
+}

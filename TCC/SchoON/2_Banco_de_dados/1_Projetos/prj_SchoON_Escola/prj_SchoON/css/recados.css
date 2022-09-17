@@ -1,0 +1,99 @@
+.between{
+    color: white;
+}
+
+.areaTitulo{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.titulo{
+    color: white;
+}
+
+.filtragemRecados{
+    margin-top: 10px;
+    width: 100%;
+    height: 60px;
+    background-color: var(--mainLaranja);
+    border-radius: 5px;
+}
+
+.areaBotaoBuscar{
+    padding: 10px;
+    margin-left: 180px;
+}
+
+.botaoBuscar{
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: -10px;
+    border: 0px;
+}
+
+.paddingFitragemRecados{
+    padding: 10px;
+}
+
+.selectTiposRecado{
+    height: 40px; 
+    width: 300px; 
+}
+
+.areaNome{ margin-left: 20px; height: 40px; }
+
+.caixaNome { 
+    width: 300px;
+    padding: 10px;
+}
+
+.timePeeker{
+    height: 35px;
+}
+
+.listaRecados{
+    margin-top: 10px;
+    width: 100%;
+    height: 675px;
+    background-color: var(--AzulSecundario);
+    overflow: auto;
+}
+
+.recadoRecebido{
+    width: 100%;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.paddingRecadoRecebido{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.tituloRecado{ font-weight: bold;}
+.nomeDestinatario{ margin-left: 75px;}
+.nomeRemetente{ margin-left: 75px;}
+.descricaoRecado{ margin-left: 20px;}
+
+.espacamento{
+    margin-top: 5px;
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+    border-radius: 5px;
+    background-color: gray;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: var(--mainLaranja);
+}
+
+.lido{
+    background-color: rgb(177, 177, 177);
+}

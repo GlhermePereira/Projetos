@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MATERIAS>
+  <MATERIA>
+    <cd_materia>20</cd_materia>
+    <nm_materia>Eletrônico</nm_materia>
+<qt_aula_trimestre_materia>22</qt_aula_trimestre_materia>
+    <qt_aula_semanais>3</qt_aula_semanais>
+    <qt_aula_totais>90</qt_aula_totais>
+  </MATERIA>
+  
+</MATERIAS>

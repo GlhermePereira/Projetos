@@ -1,0 +1,52 @@
+*{text-decoration: none; font-family: 'Roboto', sans-serif; color: black;}
+
+html, body { margin:0; padding:0; }
+main { width: 1366px; margin: auto; }
+
+:root {
+    --mainLaranja:#fb8a4b;
+    --mainAzul: #5377ff;
+    --azulSecundario: #576599;
+    --mainBranco: #fff;
+
+    /*/  var(--main-bg-color); /*/
+}
+
+.fl { float: left; }
+.fr { float: right; }
+.fb { float: both;}
+.cls { clear: both; }
+
+header 
+{ border-bottom: thin solid #ec8531; }
+
+/*/ Cabeçalho /*/
+.logoCabecalho { margin:0; }
+.logo { width: 200px; }
+.areaSair { margin-right: 20px; margin-top: 30px; }
+.botaoSair { margin-left: 10px;}
+.btn { text-decoration: none; background-color: var(--mainLaranja); border: none; padding: 10px; border-radius: 5px; max-width: 120px; color: white;} 
+
+/*/ menu /*/
+.menu { padding: 17px; }
+.menu ul { list-style: none; }
+.menu ul li { display: inline; background-color: #fff;}
+.menu ul li a { padding: 30px; text-decoration: none; color: #000;}
+.menu ul li :hover{ color: gray}
+
+/*/ Área do conteúdo geral /*/
+.areaConteudo{ 
+    width: 1366px;
+    height: 775px;
+    margin-top: 10px;
+    background-color: pink;
+    border-radius: 5px;
+}
+
+.conteudo{
+    padding: 10px;
+    width: 1346px;
+    height: 755px;
+    background-color: #576599;
+    border-radius: 5px;
+}

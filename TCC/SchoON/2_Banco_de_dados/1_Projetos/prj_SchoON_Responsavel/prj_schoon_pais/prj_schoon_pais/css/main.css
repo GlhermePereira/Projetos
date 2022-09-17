@@ -1,0 +1,45 @@
+
+
+.areaTitulo{
+    width: 400px;
+    height: 40px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.spanTitulo{
+    font-weight: bold;
+    color: #fff;
+    font-size: 25px;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex > .box{
+    flex: 1 1 30%;
+    margin: 10px;
+}
+
+.box{
+    width: 30%;
+    height: 90px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.paddingBox{ padding: 5px;}
+
+
+::-webkit-scrollbar{
+    width: 10px;
+    border-radius: 5px;
+    background-color: gray;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: var(--mainLaranja);
+}

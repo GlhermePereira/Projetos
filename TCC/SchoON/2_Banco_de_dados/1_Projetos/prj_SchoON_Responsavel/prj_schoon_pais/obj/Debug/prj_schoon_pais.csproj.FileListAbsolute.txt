@@ -1,0 +1,45 @@
+C:\Users\faupp\Documents\TCC\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.csprojResolveAssemblyReference.cache
+C:\Users\faupp\Documents\TCC\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\bin\prj_schoon_pais.dll
+C:\Users\faupp\Documents\TCC\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\bin\prj_schoon_pais.pdb
+C:\Users\faupp\Documents\TCC\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.dll
+C:\Users\faupp\Documents\TCC\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.pdb
+C:\Users\whate\Downloads\prj_SchoON_Pais\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\bin\prj_schoon_pais.dll
+C:\Users\whate\Downloads\prj_SchoON_Pais\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\bin\prj_schoon_pais.pdb
+C:\Users\whate\Downloads\prj_SchoON_Pais\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.csprojResolveAssemblyReference.cache
+C:\Users\whate\Downloads\prj_SchoON_Pais\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.dll
+C:\Users\whate\Downloads\prj_SchoON_Pais\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.pdb
+C:\Users\faupp\Desktop\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\bin\prj_schoon_pais.dll
+C:\Users\faupp\Desktop\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\bin\prj_schoon_pais.pdb
+C:\Users\faupp\Desktop\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.csprojResolveAssemblyReference.cache
+C:\Users\faupp\Desktop\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.dll
+C:\Users\faupp\Desktop\prj_SchoON_Pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.pdb
+C:\Users\whate\Downloads\prj_schoon_pais\prj_schoon_pais\bin\prj_schoon_pais.dll
+C:\Users\whate\Downloads\prj_schoon_pais\prj_schoon_pais\bin\prj_schoon_pais.pdb
+C:\Users\whate\Downloads\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.csprojResolveAssemblyReference.cache
+C:\Users\whate\Downloads\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.dll
+C:\Users\whate\Downloads\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.pdb
+C:\Users\faupp\Downloads\prj_schoon_pais\prj_schoon_pais\prj_schoon_pais\bin\prj_schoon_pais.dll
+C:\Users\faupp\Downloads\prj_schoon_pais\prj_schoon_pais\prj_schoon_pais\bin\prj_schoon_pais.pdb
+C:\Users\faupp\Downloads\prj_schoon_pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.csprojResolveAssemblyReference.cache
+C:\Users\faupp\Downloads\prj_schoon_pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.dll
+C:\Users\faupp\Downloads\prj_schoon_pais\prj_schoon_pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.pdb
+C:\Users\Caio\Desktop\tcc_semiFinal\prj_SchoON_Pais\prj_schoon_pais\bin\prj_schoon_pais.dll
+C:\Users\Caio\Desktop\tcc_semiFinal\prj_SchoON_Pais\prj_schoon_pais\bin\prj_schoon_pais.pdb
+C:\Users\Caio\Desktop\tcc_semiFinal\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.csprojResolveAssemblyReference.cache
+C:\Users\Caio\Desktop\tcc_semiFinal\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.dll
+C:\Users\Caio\Desktop\tcc_semiFinal\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.pdb
+C:\Users\whate\Downloads\tcc_semiFinal\prj_SchoON_Pais\prj_schoon_pais\bin\prj_schoon_pais.dll
+C:\Users\whate\Downloads\tcc_semiFinal\prj_SchoON_Pais\prj_schoon_pais\bin\prj_schoon_pais.pdb
+C:\Users\whate\Downloads\tcc_semiFinal\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.csprojResolveAssemblyReference.cache
+C:\Users\whate\Downloads\tcc_semiFinal\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.dll
+C:\Users\whate\Downloads\tcc_semiFinal\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.pdb
+C:\Users\whate\Downloads\projeto_definitivo\prj_SchoON_Pais\prj_schoon_pais\bin\prj_schoon_pais.dll
+C:\Users\whate\Downloads\projeto_definitivo\prj_SchoON_Pais\prj_schoon_pais\bin\prj_schoon_pais.pdb
+C:\Users\whate\Downloads\projeto_definitivo\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.csprojResolveAssemblyReference.cache
+C:\Users\whate\Downloads\projeto_definitivo\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.dll
+C:\Users\whate\Downloads\projeto_definitivo\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.pdb
+C:\Users\Caio\Desktop\PROJETO FINAL\prj_SchoON_Pais\prj_schoon_pais\bin\prj_schoon_pais.dll
+C:\Users\Caio\Desktop\PROJETO FINAL\prj_SchoON_Pais\prj_schoon_pais\bin\prj_schoon_pais.pdb
+C:\Users\Caio\Desktop\PROJETO FINAL\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.csprojResolveAssemblyReference.cache
+C:\Users\Caio\Desktop\PROJETO FINAL\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.dll
+C:\Users\Caio\Desktop\PROJETO FINAL\prj_SchoON_Pais\prj_schoon_pais\obj\Debug\prj_schoon_pais.pdb

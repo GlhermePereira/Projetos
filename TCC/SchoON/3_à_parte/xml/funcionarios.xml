@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<funcionarios>
+  <funcionario>
+    <nm_usuario>Joelington Santos</nm_usuario>
+    <nm_senha>123</nm_senha>
+    <cd_telefone>139882301</cd_telefone>
+    <nm_email>joelington_santos@gmail.com</nm_email>
+  </funcionario>
+  
+</funcionarios>

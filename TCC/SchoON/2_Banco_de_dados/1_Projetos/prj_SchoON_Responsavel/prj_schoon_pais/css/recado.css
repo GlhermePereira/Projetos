@@ -1,0 +1,99 @@
+.areaTitulo{
+    width: 400px;
+    height: 40px;
+    text-align: center;
+}
+
+.spanTitulo{
+    font-weight: bold;
+    color: #fff;
+    font-size: 25px;
+}
+
+.listaRecados{
+    margin-top: 10px;
+    width: 400px;
+    height: 705px;
+    background-color: var(--azulSecundario);
+    overflow: auto;
+}
+
+.recadoEspecifico{
+    width: 100%;
+    height: 135px;
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+.paddingRecadoEspecifico{ padding: 5px;}
+
+.nmRemetente{font-weight: bold; font-size: 17px;}
+.dsRecado { font-size: 15px;}
+
+.espacamento{ margin-top: 10px; }
+
+.areaRecadoRecebido{
+    margin-top: -755px;
+    width: 936px;
+    height: 755px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.paddingRecadoRecebido{ padding: 10px; border-radius: 5px; }
+
+.areaBotaoResponder{
+    margin-top: 635px;
+}
+
+.spanDestaque{
+    font-weight: bold; 
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+    border-radius: 5px;
+    background-color: gray;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: var(--mainLaranja);
+}
+
+@media only screen and (max-width:600px)
+{
+    main { width: auto; margin: auto; }
+    .material-icons{font-size: 60px;margin-left: 50px;}
+    header{height:100px}
+    
+    
+    .conteudo{
+        padding: 10px;
+        width: 360px;
+        height: auto;
+        background-color: #576599;
+        border-radius: 5px;
+    }
+    .conteudo2{
+        padding: 10px;
+        width: 360px;
+        height: 100%;
+        background-color: #576599;
+        border-radius: 5px;
+    }
+
+    .esconder {visibility: visible;}
+    .esconder2{visibility: hidden;}
+    .areaConteudo{ width:auto; float: none; }
+    
+    .data {position: relative; margin-left: 20px;}
+    .recadoEspecifico{width: auto;}
+    .areaTitulo{width: auto;margin-bottom: 20px; padding: 50px;}
+    .listaRecados{width: auto;}
+    
+    .areaRecadoRecebido{height: 100%;width: auto;margin: 0;}
+
+    .paddingRecadoRecebido{ padding: 5px; border-radius: 5px; }
+    .areaBotaoResponder{margin-top: 360px;}
+}

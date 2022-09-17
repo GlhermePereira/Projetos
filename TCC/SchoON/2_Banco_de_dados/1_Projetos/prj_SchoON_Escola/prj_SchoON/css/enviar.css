@@ -1,0 +1,108 @@
+.areaTitulo{ 
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.titulo{ color: white; }
+
+.areaEnviar{
+    width: 50%;
+    height: 740px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #fff;
+}
+
+.paddingEnviar{ padding: 10px; }
+
+.areaDadosAluno{
+    width: 100%;
+    height: 40px;
+}
+
+.selectTurmasIndi{ height: 40px; width: 160px; }
+.selectTurmasTurma{ height: 40px; width: 100% }
+.selectAlunos{ height: 40px; width: 300px; }
+.caixaCodigo{ height: 36px; width: 181px;}
+
+.areaCombosBox{
+    width: 100%;
+    height: 90px;
+    margin-top: 10px;
+}
+
+.areaCombosBoxResponder{
+    width: 100%;
+    height: 90px;
+}
+
+.selectAssuntos{ height: 40px; width: 100%; }
+.caixaTitulo{  height: 36px; width: 649px;  margin-top: 10px;}
+
+.areaNomeResponsavel{
+    width: 100%;
+    height: 25px;
+    margin-top: 10px;
+}
+
+.areaDescricaoResponder{
+    width: 100%;
+    height: 455px;
+    margin-top: 20px;
+    background-color: blue;
+}
+
+.areaDescricaoIndi{
+    width: 100%;
+    height: 405px;
+    margin-top: 20px;
+    background-color: blue;
+}
+
+.areaDescricaoTurm{
+    width: 100%;
+    height: 450px;
+    margin-top: 10px;
+    background-color: blue;
+}
+
+.textArea { resize: none; width: 100%; height: 99.5%;}
+
+.areaImagem {
+    width: 98.5%;
+    height: 25px;
+    margin-top: 10px;
+    padding-top: 10px; padding-left: 5px; padding-right: 5px; padding-bottom: 10px;
+    border-radius: 5px;
+    background-color: rgb(194, 194, 194);
+}
+
+.areaBotoes {
+    width: 100%;
+    height: 60px;
+    margin-top: 10px;
+}
+
+.paddingAreaBotoes{ padding-top: 20px; padding-bottom: 20px; margin-top:-17px; }
+
+.btnDescartar { 
+    padding: 15px;
+    padding-left: 45px;
+    padding-right: 45px;
+    background-color:  var(--mainLaranja);
+    color: white;
+    border-radius: 10px;
+    border: 0px; 
+}
+
+.btnEnviar { 
+    padding: 15px;
+    padding-left: 220px;
+    padding-right: 220px;
+    width: 150px;
+    background-color:  var(--mainLaranja);
+    color: white;
+    border-radius: 10px; 
+    border: 0px;
+}

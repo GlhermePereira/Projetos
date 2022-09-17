@@ -1,0 +1,78 @@
+.h1{
+    text-align: center;
+}
+
+.areaTitulo{ 
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.titulo{ color: white; }
+
+.areaImportar{
+    width: 85%;
+    height: 60px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: var(--mainLaranja);
+    border-radius: 5px;
+}
+
+.paddingAreaImportar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.selectAnos{
+    height: 40px; 
+    width: 300px;
+    margin-top: -10px;
+}
+
+.botaoInserirHorario{
+    color: #000;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: -10px;  
+    border: 0px;
+}
+
+.areaHorarios{
+    width: 78%;
+    height: 680px;
+    margin: auto;
+    margin-top: 10px;
+    overflow: auto;
+}
+
+.horarioEspecifico{
+    width: 99%;
+    height: 550px;
+    padding: 5px;
+    background-color: #fff;
+    margin: auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.espacamento{ margin-top: 10px;}
+
+.imagemHorario { width: 1000px; margin-top: 5px; height:500px; }
+
+::-webkit-scrollbar{
+    width: 10px;
+    border-radius: 5px;
+    background-color: gray;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: var(--mainLaranja);
+}
+
+
+

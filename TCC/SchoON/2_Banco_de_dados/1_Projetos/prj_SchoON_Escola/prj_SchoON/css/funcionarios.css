@@ -1,0 +1,80 @@
+.areaTitulo{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.titulo{
+    color: white;
+}
+
+.filtragemFuncionarios{
+    margin-top: 10px;
+    width: 100%;
+    height: 60px;
+    background-color: var(--mainLaranja);
+    border-radius: 5px;
+}
+
+.paddingFitragemFuncionarios{
+    padding: 10px;
+}
+
+.areaNome{height: 40px; }
+
+.caixaNome { 
+    width: 300px;
+    padding: 10px;
+}
+
+.listaFuncionarios{
+    margin-top: 10px;
+    width: 100%;
+    height: 675px;
+    background-color: var(--AzulSecundario);
+    overflow: auto;
+}
+
+.funcionario{
+    width: 100%;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.paddingFuncionario{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.nomeFuncionario{ font-weight: bold; }
+.emailFuncionario{ margin-left: 75px; }
+
+.espacamento{
+    margin-top: 5px;
+}
+
+.botaoCadastrarFuncionario{
+    color: #000;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.botaoExcluir{
+    color: #fff;
+    background-color: var(--mainLaranja);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+    border-radius: 5px;
+    background-color: gray;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: var(--mainLaranja);
+}

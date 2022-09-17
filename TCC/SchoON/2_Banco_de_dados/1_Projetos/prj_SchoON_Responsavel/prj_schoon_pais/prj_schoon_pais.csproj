@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{331145C8-71B6-493B-A441-1FD365261DE1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>prj_schoon_pais</RootNamespace>
+    <AssemblyName>prj_schoon_pais</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="boletim.aspx" />
+    <Content Include="css\aluno.css" />
+    <Content Include="css\boletim.css" />
+    <Content Include="css\enviarRecados.css" />
+    <Content Include="css\geral.css" />
+    <Content Include="css\horario.css" />
+    <Content Include="css\login.css" />
+    <Content Include="css\recadoEspecifico.css" />
+    <Content Include="css\recados.css" />
+    <Content Include="css\responsive.css" />
+    <Content Include="dll\MySql.Data.dll" />
+    <Content Include="enviados.aspx" />
+    <Content Include="enviar_recado.aspx" />
+    <Content Include="horario.aspx" />
+    <Content Include="img\SchoON logoOpacity.png" />
+    <Content Include="img\SchoONminiLogoOpacity.png" />
+    <Content Include="js\jquery-3.2.0.min.js" />
+    <Content Include="js\menu.js" />
+    <Content Include="js\script.js" />
+    <Content Include="lib\buscarNotificacao.aspx" />
+    <Content Include="recado_enviado.aspx" />
+    <Content Include="responder_recado_funcionario.aspx" />
+    <Content Include="img\logoschoon.png" />
+    <Content Include="img\SchoONminiLogo.png" />
+    <Content Include="index.aspx" />
+    <Content Include="recados.aspx" />
+    <Content Include="recado_recebido.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="boletim.aspx.cs">
+      <DependentUpon>boletim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="boletim.aspx.designer.cs">
+      <DependentUpon>boletim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cls\clsBanco.cs" />
+    <Compile Include="cls\clsConexao.cs" />
+    <Compile Include="cls\ClsEnviarRecado.cs" />
+    <Compile Include="cls\clsSelecionarHorario.cs" />
+    <Compile Include="cls\clsNotas.cs" />
+    <Compile Include="cls\ClsResponderRecados.cs" />
+    <Compile Include="cls\clsLogin.cs" />
+    <Compile Include="cls\clsRecadosEnviados.cs" />
+    <Compile Include="cls\clsRecadosRecebidos.cs" />
+    <Compile Include="enviados.aspx.cs">
+      <DependentUpon>enviados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="enviados.aspx.designer.cs">
+      <DependentUpon>enviados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="enviar_recado.aspx.cs">
+      <DependentUpon>enviar_recado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="enviar_recado.aspx.designer.cs">
+      <DependentUpon>enviar_recado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="horario.aspx.cs">
+      <DependentUpon>horario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="horario.aspx.designer.cs">
+      <DependentUpon>horario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="lib\buscarNotificacao.aspx.cs">
+      <DependentUpon>buscarNotificacao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="lib\buscarNotificacao.aspx.designer.cs">
+      <DependentUpon>buscarNotificacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recado_enviado.aspx.cs">
+      <DependentUpon>recado_enviado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recado_enviado.aspx.designer.cs">
+      <DependentUpon>recado_enviado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="responder_recado_funcionario.aspx.cs">
+      <DependentUpon>responder_recado_funcionario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="responder_recado_funcionario.aspx.designer.cs">
+      <DependentUpon>responder_recado_funcionario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="recados.aspx.cs">
+      <DependentUpon>recados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recados.aspx.designer.cs">
+      <DependentUpon>recados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recado_recebido.aspx.cs">
+      <DependentUpon>recado_recebido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recado_recebido.aspx.designer.cs">
+      <DependentUpon>recado_recebido.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="uploads\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54653</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

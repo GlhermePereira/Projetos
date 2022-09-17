@@ -1,0 +1,5 @@
+C:\Users\faupp\Desktop\TCC_Escola\prj_SchoON\prj_SchoON\bin\prj_SchoON.dll
+C:\Users\faupp\Desktop\TCC_Escola\prj_SchoON\prj_SchoON\bin\prj_SchoON.pdb
+C:\Users\faupp\Desktop\TCC_Escola\prj_SchoON\prj_SchoON\obj\Release\prj_SchoON.dll
+C:\Users\faupp\Desktop\TCC_Escola\prj_SchoON\prj_SchoON\obj\Release\prj_SchoON.pdb
+C:\Users\faupp\Desktop\TCC_Escola\prj_SchoON\prj_SchoON\obj\Release\prj_SchoON.csprojResolveAssemblyReference.cache

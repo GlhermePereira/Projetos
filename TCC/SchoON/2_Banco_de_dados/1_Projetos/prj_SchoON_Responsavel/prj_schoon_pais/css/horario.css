@@ -1,0 +1,54 @@
+.areaTitulo{ text-align: center;}
+.titulo{ font-size: 20px; color: #fff;}
+
+.paddingAreaDados{
+    padding: 10px;
+}
+
+.areaDadosHorario{
+    width: 100%;
+    background-color: var(--azulSecundario);
+    height: auto;
+    margin-top: 10px;
+}
+
+.areaImagemHorario{
+    background-color: #fff;
+    height: auto;
+    min-height: 220px;
+}
+
+.imagemHorario{
+    width: 100%;
+    height: 220px;
+}
+
+.areaDadosAvancados{
+    margin-top: 10px;
+    height: auto;
+    min-height: 350px;
+}
+
+.paddingAreaDadosAvancados{
+    padding: 10px;
+}
+
+.areaDescricaoHorario{
+    width: 100%;
+    height: auto;
+    min-height: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+
+.paddingAreaDescricaoHorario{
+    padding: 5px;
+}
+
+.areaGrafico{
+    margin-top: 10px;
+    height: 290px;
+    background-color: var(--mainLaranja);
+    border-radius: 5px;
+}

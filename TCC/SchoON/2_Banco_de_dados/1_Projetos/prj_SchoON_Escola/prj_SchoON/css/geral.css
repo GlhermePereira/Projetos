@@ -1,0 +1,76 @@
+*{text-decoration: none; font-family: 'Roboto', sans-serif; color: black; margin: 0; padding: 0;}
+
+main{ width: 90%; max-width: 1366px; margin: auto; }
+
+:root {
+    --mainLaranja:#fb8a4b;
+    --mainAzul: #5377ff;
+    --azulSecundario: #576599;
+    --mainBranco: #fff;
+
+    /*/  var(--main-bg-color); /*/
+}
+
+.fl { float: left; }
+.fr { float: right; }
+.fb { float: both;}
+.cls { clear: both; }
+
+/*/Cabeçalho/*/
+header{ width: 100%; background-color: blue; }
+
+.areaNome{
+    height: 50px;
+    width: 150px;
+}
+
+.paddingAreaNome{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.areaSair{
+    height: 50px;
+    width: 50px;
+}
+
+.paddingAreaSair{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.botaoSair{ 
+    padding: 10px;
+    color: white;
+    border-radius: 10px; 
+    background-color: var(--mainLaranja);
+}
+
+
+/*/ Menu /*/
+.logoMenu { width: 100px; margin-top: 5px; margin-left: 10px; margin-right: 10px;}
+
+.menu{ width: 100%; height: 50px; background-color: #fff; margin-top: 10px;}
+.menu ul{ list-style: none; position: relative; }
+.menu ul li{ width: 150px; float: left; }
+.menu a{ padding: 15px; display: block; text-decoration: none; text-align: center; background-color: #fff; }
+.menu ul ul{ position: absolute; visibility: hidden; }
+.menu ul ul li{ float: none;}
+.menu ul li:hover ul{ visibility: visible; }
+.menu a:hover{ color: var(--mainLaranja); }
+
+/*/ Conteúdo /*/
+.conteudo{
+    margin-top: 10px;
+    width: 100%;
+    height: 805px;
+    border-radius: 5px;
+    background-color: var(--azulSecundario);
+}
+
+.paddingConteudo{ padding: 10px; }
+
+
+
+
+
